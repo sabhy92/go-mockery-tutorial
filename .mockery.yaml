@@ -1,0 +1,6 @@
+with-expecter: true
+dir: "internal/mocks"
+packages:
+  github.com/sabhy92/go-mockery-tutorial/internal/repository:
+    interfaces:
+      UserRepository:
